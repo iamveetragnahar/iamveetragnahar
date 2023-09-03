@@ -3,6 +3,7 @@
 ### <p align="center"> Programmer By Profession, Developer By Choice </p> ###
 
 
+* 🎓 I'm Master of Computer Science Student at University of Iowa </li>
 * 😎 I’m a Software Engineer </li>
 * 👨‍💻 I’m currently looking for Internship Opportunities for Summer 2024 </li>
 * 👍🏼 I’m always ready to learn new technologies </li>

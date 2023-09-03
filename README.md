@@ -3,8 +3,6 @@
 ### <p align="center"> Programmer By Profession, Developer By Choice </p> ###
 
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Diamveetragnahar&longCache=true)](https://github.com/iamveetragnahar) 
-
 * 😎 I’m a Software Engineer </li>
 * 👨‍💻 I’m currently looking for Internship Opportunities for Summer 2024 </li>
 * 👍🏼 I’m always ready to learn new technologies </li>

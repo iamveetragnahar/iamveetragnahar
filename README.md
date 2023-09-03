@@ -19,7 +19,7 @@
  
 <a href="https://www.instagram.com/iamveetragnahar/"><img align="center" alt="iamveetragnahar's Instagram" src="https://img.shields.io/badge/Instagram-_@iamveetragnahar-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/iamveetragnahar/"><img align="center" alt="iamveetragnahar's Linkedin" src="https://img.shields.io/badge/LinkedIn-_@iamveetragnahar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="https://twitter.com/iamveetragnahar"><img align="center" src="https://img.shields.io/twitter/follow/iamveetragnahar?logo=twitter&style=for-the-badge" alt="iamveetragnahar" /></a> 
+
 
 ## 👽 MY ZONE 👽 ##
 

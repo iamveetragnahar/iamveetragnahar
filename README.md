@@ -1,13 +1,8 @@
 # <p align="center"><img src="https://media3.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif" width="80"> Hello 👋, I'm Veetrag Nahar<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="80"></p>
 
-### <p align="center"> 👨‍💻 DEVELOPER FROM INDIA 🇮🇳 </p> ###
+### <p align="center"> Programmer By Profession, Developer By Choice </p> ###
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iamveetragnahar&theme=onedark&column=4" alt="iamveetragnahar"/> <br>
-<img src="https://github-readme-stats.vercel.app/api?username=iamveetragnahar&theme=dark&show_icons=true" alt="stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamveetragnahar&theme=dark"/> <br>
-<img src="https://komarev.com/ghpvc/?username=iamveetragnahar" alt="iamveetragnahar" />
-</p>
+
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Diamveetragnahar&longCache=true)](https://github.com/iamveetragnahar) 
 

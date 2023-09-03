@@ -24,6 +24,7 @@
 ## 👽 MY ZONE 👽 ##
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 

@@ -5,26 +5,26 @@
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Diamveetragnahar&longCache=true)](https://github.com/iamveetragnahar) 
 
-* 🔭 I’m currently working on Web Development </li>
-* 🌱 I’m currently learning NOTHING </li>
-* 👯 I’m looking to collaborate for NOTHING </li>
-* 🤔 I’m looking for help with NOTHING </li>
-* 💬 Ask me about NOTHING </li>
-* ⚡  Fun fact: NOTHING IS NOTHING </li>
+* 😎 I’m a Software Engineer </li>
+* 👨‍💻 I’m currently looking for Internship Opportunities for Summer 2024 </li>
+* 👍🏼 I’m always ready to learn new technologies </li>
+* 🤝 Always ready for collabration to solve new problem </li>
+* 💬 Ask me about NOTHING/EVERYTHING </li>
+* ⚡  Fun fact: I love Indian Foods </li>
   
 ## 💬 FIND ME HERE 💬 ##
 
 ### Socials
 
-<a href="https://t.me/iamveetragnahar"/><img align="center" alt="iamveetragnahar's Telegram" src="https://img.shields.io/badge/Telegram-@_iamveetragnahar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-<a href="https://twitter.com/iamveetragnahar"> <img align="center" alt="iamveetragnahar's Twitter" src="https://img.shields.io/badge/Twitter-_@_iamveetragnahar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
+ 
 <a href="https://www.instagram.com/iamveetragnahar/"><img align="center" alt="iamveetragnahar's Instagram" src="https://img.shields.io/badge/Instagram-_@iamveetragnahar-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/iamveetragnahar/"><img align="center" alt="iamveetragnahar's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://twitter.com/iamveetragnahar"><img align="center" src="https://img.shields.io/twitter/follow/iamveetragnahar?logo=twitter&style=for-the-badge" alt="iamveetragnahar" /></a> 
 
 ## 👽 MY ZONE 👽 ##
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

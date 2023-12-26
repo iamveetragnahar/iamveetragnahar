@@ -8,7 +8,6 @@
 * 👨‍💻 I’m currently looking for Internship Opportunities for Summer 2024 </li>
 * 👍🏼 I’m always ready to learn new technologies </li>
 * 🤝 Always ready for collabration to solve new problem </li>
-* 💬 Ask me about NOTHING/EVERYTHING </li>
 * ⚡  Fun fact: I love Indian Foods </li>
   
 ## 💬 FIND ME HERE 💬 ##

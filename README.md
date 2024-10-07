@@ -4,11 +4,11 @@
 
 
 * 🎓 I'm a Master of Computer Science Student at The University of Iowa </li>
-* 😎 I’m a Software Engineer </li>
-* 👨‍💻 I’m currently looking for Internship Opportunities for Summer 2024 </li>
-* 👍🏼 I’m always ready to learn new technologies </li>
-* 🤝 Always ready for collabration to solve new problem </li>
-* ⚡  Fun fact: I love Indian Foods </li>
+* 💻 I’m a Software Engineer with experience in full-stack development and cloud technologies </li>
+* 👀 I’m actively seeking full-time Software Engineering roles starting January 2025 </li>
+* 🚀 I'm passionate about solving complex problems and leveraging new technologies </li>
+* 🤝 I love collaborating across teams to drive impactful results </li>
+* 🍛 Fun fact: I love Indian food! </li>
   
 ## 💬 FIND ME HERE 💬 ##
 
@@ -20,7 +20,7 @@
 
 
 ## 👽 MY ZONE 👽 ##
-
+Programming Languages:
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)

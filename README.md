@@ -85,17 +85,6 @@ I'm a Lead Software Engineer at **Valkyrie Bioscience**, where I architect cutti
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
 </p>
 
-## 📊 GITHUB STATS ##
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamveetragnahar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamveetragnahar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamveetragnahar&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ## 🏆 ACHIEVEMENTS ##
 
 * 🥇 **Overall Performer of the Year** - IPS Academy (2022-23)
